@@ -75,3 +75,6 @@ out/
 .vscode/
 .history/
 /files/
+
+# kotlin
+.kotlin
